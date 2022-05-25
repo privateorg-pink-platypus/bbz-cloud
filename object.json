@@ -41,6 +41,18 @@
       "teacher": true,
       "enabled": true
     },
+    "TaskCards": {
+      "icon": "https://www.taskcards.de/icons/preview.png",
+      "url": "https://www.taskcards.de/#/account/",
+      "teacher": true,
+      "enabled": true
+    },
+    "Classroomscreen": {
+      "icon": "https://d2x3xhvgiqkx42.cloudfront.net/c9cbf90e-d082-4002-9c2c-f39da54f05b0/374bbdea-0a47-4cb6-ab73-3ab5eb43b630/2020/10/17/ceb1d802-fbca-4d66-aab3-1e7afcb33dc9/8b878626-512a-4cb9-aca9-c5e4d5ffa6d0.png",
+      "url": "https://classroomscreen.com/app",
+      "teacher": true,
+      "enabled": true
+    },
     "BigBlueButton": {
       "icon": "https://canvas.rutgers.edu/wp-content/uploads/2019/01/BigBlueButton.png",
       "url": "https://bbb.bbz-rd-eck.de",
